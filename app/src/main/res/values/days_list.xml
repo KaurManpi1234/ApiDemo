@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="days_list">
+        <item>1 (faster)</item>
+
+        <item>3 (fast)</item>
+
+        <item>5 (slow)</item>
+
+        <item>7 (slower)</item>
+        <item>10 (very slow)</item>
+    </string-array>
+</resources>
